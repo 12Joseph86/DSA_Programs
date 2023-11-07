@@ -2,7 +2,7 @@
 # DSA_programs
 1st Assignment
 # Data Structure Lab Experiments
-## 1) Name : Joseph
+## 1) Name : Joseph Anthony
 ## 2) Roll no : 47
 ## 3) Batch : B
 
